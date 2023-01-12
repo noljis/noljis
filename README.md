@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://img.shields.io/badge/Noljis-back--end-yellowgreen?style=for-the-badge
-https://img.shields.io/badge/EMail-Popsol95@gmail.com-informational?style=for-the-badge
+
