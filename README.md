@@ -1,17 +1,23 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20NJS%20Hub&fontSize=80&animation=fadeIn&fontAlignY=38)
 
-<!--
-**noljis/noljis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Noljis%20Github%20🎉%20&fontSize=100&animation=fadeIn&fontAlignY=38)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center"><samp> Hi there 💫  welcome to my Github! </samp></h3>
+
+<img
+     src="https://user-images.githubusercontent.com/117498827/212060500-76d44479-b64c-4811-ab7b-0059bef26760.png"
+     width="900"
+     height="900"
+/>
+
+
+
+<hr>
+<h1>Info</h1>
+<br><br>
+
+
+![badge](https://img.shields.io/badge/Noljis-back--end-yellowgreen?style=for-the-badge&logo=dev.to) <br>
+
+![badge](https://img.shields.io/badge/EMail-Popsol95@gmail.com-informational?style=for-the-badge&logo=Gmail)
 
