@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20NJS%20Hub&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20NJS%20Hub&fontSize=80&animation=fadeIn&fontAlignY=38)
 
 <!--
 **noljis/noljis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://img.shields.io/badge/Noljis-back--end-yellowgreen?style=for-the-badge
+https://img.shields.io/badge/EMail-Popsol95@gmail.com-informational?style=for-the-badge
