@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Noljis%20Github%20🎉%20&fontSize=100&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=NOLJIS%20Github%20🎉%20&fontSize=100&animation=fadeIn&fontAlignY=38)
 
 
 <h3 align="center"><samp> Hi there 💫  welcome to my Github!</samp></h3>
