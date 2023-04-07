@@ -47,6 +47,12 @@
      <!-- <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" /> -->
 </div>
 
+<h3 align=center> 🏃Learning.. </h3>
+<div align=center>
+	<img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
+</div>
+
 
 
 ## 📮SNS
