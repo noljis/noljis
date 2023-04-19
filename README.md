@@ -27,25 +27,38 @@
 <h3 align=center> 🗨️Languages💬 </h3>
 <div align=center>
 	<img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"> 
-	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> 
-	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/> 
-	<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
-	<img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white">
-	<img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white"><br>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
+</div>
+
+<h3 align=center> 🗂️Framework & Library🗂️ </h3>
+<div align=center>
+	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> 
+	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/> 
+	<img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white">
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
 </div>
 
-<h3 align=center> 🔨Tools🔧 </h3>
+<h3 align=center> ®️Databases®️ </h3>
+<div align=center>
+	<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
+	<img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white">
+</div>
+
+
+<h3 align=center> 🔨Tools & Others🔧 </h3>
 <div align=center>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
+	<img src="https://img.shields.io/badge/Spring Tool Suite4-6DB33F?style=flat&logo=Spring&logoColor=white"/> 
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
 	<img src="https://img.shields.io/badge/sourcetree-0052CC?style=flat&logo=sourcetree&logoColor=white" />
-     <!-- <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" /> -->
+	<img src="https://img.shields.io/badge/DBeaver-000000?style=flat&logo=DBeaver&logoColor=white" /><br>
+     	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
+	<img src="https://img.shields.io/badge/ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
 </div>
+
 
 <h3 align=center> 🏃Learning.. </h3>
 <div align=center>
